@@ -1,0 +1,22 @@
+{
+  "name": "komplex_calculator",
+  "version": "1.0.0",
+  "description": "This is calculator with multiplication, division, addition, subtraction functions.",
+  "main": "complex_calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashviradia/komplex_calculator.git"
+  },
+  "author": "Yash Viradia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashviradia/komplex_calculator/issues"
+  },
+  "homepage": "https://github.com/yashviradia/komplex_calculator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
